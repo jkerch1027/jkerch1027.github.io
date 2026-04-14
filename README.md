@@ -1,2 +1,2 @@
-# jkerch1027.github.io
-A collection of my important projects and software I have created.
+# Joseph Kerchenfaut
+Hi! I am currently a student working at the University of Illinois Urbana-Champaign with experience in both fusion plasma physics and condensed matter experimental work. Previous projects have been data analysis for lithium evaporations into hydrogen plasma, experimental investigation of field induced transitions in relaxor ferroelectric PMN-PT at different concentrations, and I have worked on laboratory automation software VEE pro to implement polarized light microscopy and in-situ vacuum measurements. Currently, I am very interested in electron transport properties and disordered systems. 
